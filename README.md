@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://www.ishir.com/wp-content/uploads/2022/09/Nodejs-vs-Golang-ISHIR.png" alt="dinhieufam" /> </p>
 
 
-- 📫 How to reach me **phamdinhhieumd@gmail.com**
+- 📫 How to reach me **24hieu.pd@vinuni.edu.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
